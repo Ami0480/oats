@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 export default function Homepage() {
   return (
     <div className="container">
-      <h1 className="text-[40px]">We love Oats</h1>
+      <h1>We love Oats</h1>
       <img
         className="w-48 h-48 mx-auto rounded-full shadow-lg"
         src={oatsImage}

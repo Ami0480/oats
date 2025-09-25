@@ -3,8 +3,6 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Homepage from "./Homepage";
 import Loveoats from "./Loveoats";
 
-import "./App.css";
-
 function App() {
   return (
     <Router>
