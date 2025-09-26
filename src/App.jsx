@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import ScrollToTop from "./ScrollToTop";
-import Homepage from "./Homepage";
+import Homepage from "./Homepage.jsx";
 import Loveoats from "./Loveoats";
 import Recipes from "./Recipes";
 import Granola from "./Granola";
