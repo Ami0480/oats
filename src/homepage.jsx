@@ -9,13 +9,13 @@ export default function Homepage() {
       <Header />
       <h1>We love Oats</h1>
       <div className="md:flex basis-auto">
-        <p className="md:flex flex-1 justify-center items-center mt-8">
+        <div className="md:flex flex-1 justify-center items-center mt-8">
           <img
             className="w-48 h-48 mx-auto rounded-full shadow-lg md:w-60 md:h-60"
             src={oatsImage}
             alt="oats"
           />
-        </p>
+        </div>
         <p className="mt-8 md:flex flex-1">
           Many people enjoy them as oatmeal for breakfast, but they are also
           used in cookies, granola, smoothies, and even bread. Oats are very

@@ -11,9 +11,9 @@ export default function Recipes() {
         <div className="mb-5 md:mt-8">
           <Link to="/granola">
             <h2 className="mb-2">Granola with Berries</h2>
-            <p className="w-md">
+            <div className="w-md">
               <img src="images/granola.jpg" alt="granola" />
-            </p>
+            </div>
 
             <p className="underline underline-offset-4 decoration-1">
               Jump to recipe
@@ -23,9 +23,9 @@ export default function Recipes() {
         <div className="mb-5 md:mt-8">
           <Link to="/pancake">
             <h2 className="mb-2">Oat Pancake</h2>
-            <p className="w-md">
+            <div className="w-md">
               <img src="images/pancake.jpg" alt="pancake" />
-            </p>
+            </div>
 
             <p className="underline underline-offset-4 decoration-1">
               Jump to recipe
@@ -36,9 +36,9 @@ export default function Recipes() {
         <div className="mb-5 md:mt-8">
           <Link to="/porridge">
             <h2 className="mb-2">Savoury Porridge</h2>
-            <p className="w-md">
+            <div className="w-md">
               <img src="images/porridge.jpg" alt="porridge" />
-            </p>
+            </div>
 
             <p className="underline underline-offset-4 decoration-1">
               Jump to recipe
@@ -49,9 +49,9 @@ export default function Recipes() {
         <div className="mb-5 md:mt-8">
           <Link to="/blissbites">
             <h2 className="mb-2">No-Bake Bliss Bites</h2>
-            <p className="w-md">
+            <div className="w-md">
               <img src="images/blissbites.jpg" alt="bliss bites" />
-            </p>
+            </div>
 
             <p className="underline underline-offset-4 decoration-1">
               Jump to recipe
