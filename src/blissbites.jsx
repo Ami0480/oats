@@ -36,7 +36,7 @@ export default function Blissbites() {
         5.Place the balls in the fridge to firm up a little. Leave them stored
         in the fridge in an airtight container.
       </p>
-      <div className="mt-8">
+      <div className="mt-8 md:mt-20">
         <Link to="/recipes" className="button">
           Back to Recipes
         </Link>

@@ -33,7 +33,7 @@ export default function Pancake() {
         golden-brown. Flip the pancakes and cook until the other side is
         golden-brown.
       </p>
-      <div className="mt-8">
+      <div className="mt-8 md:mt-20">
         <Link to="/recipes" className="button">
           Back to Recipes
         </Link>

@@ -1,7 +1,15 @@
 h1 {
-  @apply text-4xl my-8 text-center md:text-6xl md:my-10;
+  @apply text-4xl my-8 text-center md:text-6xl md:mb-20;
 }
 
 h2 {
-  @apply text-2xl;
+  @apply text-2xl md:font-medium md:text-3xl;
+}
+
+p {
+  @apply md:text-2xl/10;
+}
+
+li {
+  @apply mb-2 md:text-[20px];
 }

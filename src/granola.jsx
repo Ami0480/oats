@@ -9,14 +9,14 @@ export default function Granola() {
       <h1>Granola with berries</h1>
       <h2 className="mb-3">Ingredients</h2>
       <ul>
-        <li className="mb-2">1½ cups old fashioned oats</li>
-        <li className="mb-2">½ tsp Kosher or fine sea salt</li>
-        <li className="mb-2">¼ cup sliced almonds</li>
-        <li className="mb-2">1 teaspoon vanilla extract</li>
-        <li className="mb-2">¼ cup extra virgin olive oil</li>
-        <li className="mb-2">¼ cup maple syrup</li>
-        <li className="mb-2">¼ cup raspberry or strawberry jam</li>
-        <li className="mb-2">1 cup freeze-dried berries</li>
+        <li>1½ cups old fashioned oats</li>
+        <li>½ tsp Kosher or fine sea salt</li>
+        <li>¼ cup sliced almonds</li>
+        <li>1 teaspoon vanilla extract</li>
+        <li>¼ cup extra virgin olive oil</li>
+        <li>¼ cup maple syrup</li>
+        <li>¼ cup raspberry or strawberry jam</li>
+        <li>1 cup freeze-dried berries</li>
       </ul>
       <h2 className="mt-5 mb-3">Instructions</h2>
       <p className="mb-3">
@@ -36,7 +36,7 @@ export default function Granola() {
         break the sheet of granola with your hands. Add the freeze-dried fruit,
         and give it a quick toss.
       </p>
-      <div className="mt-8">
+      <div className="mt-8 md:mt-20">
         <Link to="/recipes" className="button">
           Back to Recipes
         </Link>

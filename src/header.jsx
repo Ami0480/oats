@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 export default function Header() {
   return (
     <div>
-      <p className="w-10 h-10">
+      <p className="w-10 h-10 md:w-15 md:w-15">
         <Link to="/">
           <img src="images/oats.png" />
         </Link>
