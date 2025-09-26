@@ -37,7 +37,7 @@ export default function Recipes() {
           <Link to="/porridge">
             <h2 className="mb-2">Savoury Porridge</h2>
             <p className="w-md">
-              <img src="images/porridge.jpg" alt="bliss-balls" />
+              <img src="images/porridge.jpg" alt="porridge" />
             </p>
 
             <p className="underline underline-offset-4 decoration-1">
@@ -50,7 +50,7 @@ export default function Recipes() {
           <Link to="/blissbites">
             <h2 className="mb-2">No-Bake Bliss Bites</h2>
             <p className="w-md">
-              <img src="images/blissbites.jpg" alt="bliss-balls" />
+              <img src="images/blissbites.jpg" alt="bliss bites" />
             </p>
 
             <p className="underline underline-offset-4 decoration-1">
